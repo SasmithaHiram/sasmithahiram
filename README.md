@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 About Me:
+# I am Sasmitha Hiram
 Software Engineering Student at iCET  
 
 ## 🌐 Socials:
