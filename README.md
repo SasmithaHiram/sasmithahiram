@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SasmithaHiram&label=Profile%20views&color=0e75b6&style=flat" alt="SasmithaHIram" /> </p>
 <div align="center">
 
 # Hello, I'am Sasmitha
