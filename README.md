@@ -4,8 +4,8 @@
 
 <div align="center">
 
-# Hello, I'am Sasmitha
-Software Engineering Student at iCET  
+# Hello, I'am Sasmitha Hiram Mendis
+Software Engineer  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasmithahiram2003@gmail.com)  
