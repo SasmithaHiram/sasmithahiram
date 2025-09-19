@@ -5,12 +5,7 @@
 <div align="center">
 
 # Hello, I'am Sasmitha Hiram Mendis
-Software Engineer  
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasmithahiram2003@gmail.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SasmithaHiramMendis)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasmitha-hiram-21a8b5335)  
+Software Engineer    
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SasmithaHiram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
