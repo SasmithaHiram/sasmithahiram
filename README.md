@@ -4,8 +4,8 @@
 
 <div align="center">
 
-# Hello, I'am Sasmitha Hiram Mendis
-Software Engineer    
+# Hello, I'am Sasmitha
+Software Engineer Intern    
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SasmithaHiram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
