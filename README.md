@@ -104,14 +104,6 @@ const sasmitha = {
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasmithaHiram&bg_color=1a1b27&color=38bdae&line=628fdb&point=47cef7&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 💼 Skills & Proficiency
 
 <div align="center">
@@ -129,14 +121,6 @@ const sasmitha = {
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasmithaHiram&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -146,7 +130,7 @@ const sasmitha = {
   <a href="https://linkedin.com/in/sasmithahiram">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:sasmitha@example.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/sasmithahiram">
