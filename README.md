@@ -28,11 +28,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SasmithaHiram&theme=default&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasmithaHiram&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
 <!-- Optionally add social/contact links here if you want -->
 
 </div>
