@@ -23,7 +23,7 @@
 
 ```javascript
 const sasmitha = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     code: ["Java", "Python", "JavaScript", "C#", "TypeScript"],
     askMeAbout: ["web dev", "software engineering", "tech", "problem solving"],
     technologies: {
