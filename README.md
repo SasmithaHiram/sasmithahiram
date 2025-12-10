@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
-<h2>I'm Sasmitha &mdash; Software Engineer Intern 👨‍💻</h2>
+<h2>I'm Sasmitha &mdash; Software Engineer👨‍💻</h2>
 
 <p>
   <i>Passionate about building impactful software, experimenting with code, and sharing knowledge!</i>
@@ -27,8 +27,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SasmithaHiram&theme=default&hide_border=false&count_private=true" alt="GitHub Stats" />
