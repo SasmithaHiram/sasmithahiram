@@ -24,22 +24,22 @@
 ```javascript
 const sasmitha = {
     pronouns: "He/Him",
-    code: ["Java", "Python", "JavaScript", "C#", "TypeScript"],
-    askMeAbout: ["web dev", "software engineering", "tech", "problem solving"],
+    code: ["Java", "JavaScript", "TypeScript", "Python", "C#"],
+    askMeAbout: ["web dev", "software engineering", "problem solving"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Vue"],
+            js: ["Angular", "React"],
             css: ["Bootstrap", "Tailwind", "Material-UI"]
         },
         backEnd: {
             java: ["Spring Boot", "Hibernate"],
-            python: ["Django", "Flask", "FastAPI"],
             js: ["Node.js", "Express"],
+            python: ["FastAPI"],
             csharp: [".NET Core", "ASP.NET"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
-        tools: ["Git", "VS Code", "IntelliJ", "Postman"]
+        databases: ["MySQL", "MongoDB", "PostgreSQL", "MSSQL"],
+        devOps: ["AWS", "CI/CD", "Docker", "Azure"],
+        tools: ["VS Code", "Git", "IntelliJ", "Postman"]
     },
     currentFocus: "Building scalable applications and learning new technologies",
     funFact: "I debug code in my dreams!"
