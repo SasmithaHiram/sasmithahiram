@@ -21,30 +21,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
-const sasmitha = {
-    pronouns: "He/Him",
-    code: ["Java", "JavaScript", "TypeScript", "Python", "C#"],
-    askMeAbout: ["web dev", "software engineering", "problem solving"],
-    technologies: {
-        frontEnd: {
-            js: ["Angular", "React"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            java: ["Spring Boot", "Hibernate"],
-            js: ["Node.js", "Express"],
-            python: ["FastAPI"],
-            csharp: [".NET Core", "ASP.NET"]
-        },
-        databases: ["MySQL", "MongoDB", "PostgreSQL", "MSSQL"],
-        devOps: ["AWS", "CI/CD", "Docker", "Azure"],
-        tools: ["VS Code", "Git", "IntelliJ", "Postman"]
-    },
-    currentFocus: "Building scalable applications and learning new technologies",
-    funFact: "I debug code in my dreams!"
-};
-```
+Software Engineer passionate about building scalable applications and solving complex problems. I specialize in full-stack development with expertise in modern web technologies.
 
 ---
 
