@@ -27,32 +27,32 @@ Software Engineer passionate about building scalable applications and solving co
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
+#### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,cs,typescript,html,css,php,cpp,c" />
 </p>
 
-### 🎨 Frontend Development
+#### 🎨 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,redux,bootstrap,tailwind,materialui,sass,webpack" />
 </p>
 
-### ⚙️ Backend Development
+#### ⚙️ Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,dotnet,graphql,jest" />
 </p>
 
-### 🗄️ Databases
+#### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,sqlite" />
 </p>
 
-### ☁️ DevOps & Cloud
+#### ☁️ DevOps & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,jenkins,git,github,gitlab,nginx" />
 </p>
 
-### 🧰 Tools & IDEs
+#### 🧰 Tools & IDEs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,linux,bash,vim" />
 </p>
