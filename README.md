@@ -17,14 +17,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-Software Engineer passionate about building scalable applications and solving complex problems. I specialize in full-stack development with expertise in modern web technologies.
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
@@ -116,32 +108,6 @@ Software Engineer passionate about building scalable applications and solving co
   <a href="https://dev.to/sasmithahiram">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- 🔭 Currently working on building scalable web applications
-- 🌱 Learning advanced cloud architecture and microservices
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about web development, software engineering, or tech in general
-- ⚡ Fun fact: I can spend hours debugging, but I enjoy every moment of it!
-
----
-
-## 💡 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
-## 😄 Random Dev Meme
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </p>
 
 ---
